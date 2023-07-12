@@ -1,0 +1,6 @@
+[submodule "Aemet-front"]
+	path = Aemet-front
+	url = https://github.com/JMartinezMor/Aemet-front.git
+[submodule "Aemet-back"]
+	path = Aemet-back
+	url = https://github.com/JMartinezMor/Aemet-back.git
